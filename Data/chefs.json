@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "chefPicture": "https://i.ibb.co/7jKJPmd/1.jpg",
+        "chefPicture": "https://i.ibb.co/hHs6Sd8/a.jpg",
         "chefName": "John Doe",
         "yearsOfExperience": 10,
         "chefDescription": "John is a professional chef with over 10 years of experience.",
@@ -47,7 +47,7 @@
     },
     {
         "id": 2,
-        "chefPicture": "https://i.ibb.co/Ycfx461/2.jpg",
+        "chefPicture": "https://i.ibb.co/GHvNCcg/2.jpg",
         "chefName": "Jane Smith",
         "yearsOfExperience": 5,
         "chefDescription": "Jane is a pastry chef with over 5 years of experience.",
@@ -93,7 +93,7 @@
     },
     {
         "id": 3,
-        "chefPicture": "https://i.ibb.co/RYLrBQd/3.jpg",
+        "chefPicture": "https://i.ibb.co/mTy2J3T/3.jpg",
         "chefName": "Max Jen",
         "yearsOfExperience": 10,
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
@@ -139,7 +139,7 @@
     },
     {
         "id": 4,
-        "chefPicture": "https://i.ibb.co/KxRnYdz/4.jpg",
+        "chefPicture": "https://i.ibb.co/KVwfcTh/4.jpg",
         "chefName": "Sarah steve",
         "yearsOfExperience": 8,
         "chefDescription": "I am a professional chef with over 8 years of experience in the culinary arts.",
@@ -184,7 +184,7 @@
     },
     {
         "id": 5,
-        "chefPicture": "https://i.ibb.co/HrqDkFM/5.jpg",
+        "chefPicture": "https://i.ibb.co/HFmjCV1/5.jpg",
         "chefName": "David Pacer",
         "yearsOfExperience": 10,
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
@@ -230,7 +230,7 @@
     },
     {
         "id": 6,
-        "chefPicture": "https://i.ibb.co/GHQgMBF/6.jpg",
+        "chefPicture": "https://i.ibb.co/z7kSKD8/1.jpg",
         "chefName": "Glen smit",
         "yearsOfExperience": 5,
         "chefDescription": "I am a passionate home cook who loves to experiment with new flavors and techniques.",

@@ -4,42 +4,42 @@
         "chefPicture": "https://i.ibb.co/hHs6Sd8/a.jpg",
         "chefName": "John Doe",
         "yearsOfExperience": 10,
-        "chefDescription": "John is a professional chef with over 10 years of experience.",
+        "chefDescription": "John is a professional chef with best serve of food .",
         "recipes": [
             {
-                "recipeName": "Pasta",
+                "recipeName": "Cheeseburger",
                 "ingredients": [
-                    "pasta",
-                    "tomatoes",
-                    "olive oil",
-                    "garlic",
-                    "basil"
+                    "Ground Mutton",
+                    "burger buns",
+                    "cheese",
+                    "lettuce",
+                    "tomato"
                 ],
-                "cookingMethod": "Boil pasta until al dente. In a separate pan, sauté garlic and tomatoes in olive oil. Add cooked pasta to the pan and toss with fresh basil.",
+                "cookingMethod": " Form ground beef into patties and grill or fry until cooked. Toast the burger buns and assemble the burger with cheese, lettuce, and tomato.",
                 "rating": 4.5
             },
             {
-                "recipeName": "Pizza",
+                "recipeName": "Hotdog",
                 "ingredients": [
-                    "pizza dough",
-                    "tomato sauce",
-                    "mozzarella cheese",
-                    "pepperoni",
-                    "mushrooms"
+                    "Hotdog buns",
+                    "hotdogs",
+                    "ketchup",
+                    "mustard",
+                    "relish"
                 ],
-                "cookingMethod": "Preheat oven to 425 degrees F. Roll out pizza dough and spread tomato sauce on top. Add cheese, pepperoni, and mushrooms. Bake for 12-15 minutes.",
+                "cookingMethod": "Boil or grill the hotdogs until heated through. Toast the hotdog buns and assemble the hotdog with ketchup, mustard, and relish.",
                 "rating": 4.2
             },
             {
-                "recipeName": "Salad",
+                "recipeName": "Fried chicken",
                 "ingredients": [
-                    "lettuce",
-                    "tomatoes",
-                    "cucumbers",
-                    "olives",
-                    "feta cheese"
+                    "Chicken pieces",
+                    "flour",
+                    "eggs",
+                    "milk",
+                    "salt"
                 ],
-                "cookingMethod": "Wash and chop lettuce, tomatoes, and cucumbers. Add olives and feta cheese. Toss with olive oil and vinegar.",
+                "cookingMethod": "Dip chicken pieces in a mixture of flour, eggs, and milk. Fry the chicken in hot oil until crispy and cooked through.",
                 "rating": 4
             }
         ],
@@ -53,39 +53,39 @@
         "chefDescription": "Jane is a pastry chef with over 5 years of experience.",
         "recipes": [
             {
-                "recipeName": "Chocolate Cake",
+                "recipeName": "Macaroni and cheese",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "baking powder",
-                    "eggs"
+                    "Macaroni pasta",
+                    "cheddar cheese",
+                    "milk",
+                    "butter",
+                    "flour"
                 ],
-                "cookingMethod": "Preheat oven to 350 degrees F. Mix flour, sugar, cocoa powder, and baking powder in a bowl. Add eggs and mix until smooth. Pour batter into a greased cake pan and bake for 30-35 minutes.",
+                "cookingMethod": "Cook the macaroni pasta and set aside. In a separate pan, melt butter and stir in flour to create a roux. Gradually add milk and whisk until smooth. Add cheddar cheese and stir until melted. Combine the cheese sauce with the cooked pasta and serve.",
                 "rating": 4.8
             },
             {
-                "recipeName": "Apple Pie",
+                "recipeName": "Meatloaf",
                 "ingredients": [
-                    "apples",
-                    "sugar",
-                    "cinnamon",
-                    "nutmeg",
-                    "pie crust"
+                    "Ground Mutton",
+                    "breadcrumbs",
+                    "onion",
+                    "ketchup",
+                    "egg"
                 ],
-                "cookingMethod": "Preheat oven to 375 degrees F. Peel and slice apples. Mix sugar, cinnamon, and nutmeg in a bowl. Add apples to the bowl and toss until coated. Pour mixture into pie crust and bake for 45-50 minutes.",
+                "cookingMethod": "Combine ground beef, breadcrumbs, chopped onion, ketchup, and beaten egg. Mix well and shape into a loaf. Bake in the oven until cooked through.",
                 "rating": 4.6
             },
             {
-                "recipeName": "Cupcakes",
+                "recipeName": " BBQ ribs ",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "butter",
-                    "eggs",
-                    "vanilla extract"
+                    "Pork ribs",
+                    "BBQ sauce",
+                    "salt",
+                    "pepper",
+                    "garlic powder"
                 ],
-                "cookingMethod": "Preheat oven to 350 degrees F. Mix flour, sugar, butter, eggs, and vanilla extract in a bowl until smooth. Pour batter into cupcake liners and bake for 20-25 minutes.",
+                "cookingMethod": "Season pork ribs with salt, pepper, and garlic powder. Brush with BBQ sauce and bake in the oven or grill until cooked through.",
                 "rating": 4.3
             }
         ],
@@ -99,27 +99,27 @@
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
         "recipes": [
             {
-                "recipeName": "Spaghetti Carbonara",
+                "recipeName": "Caesar salad",
                 "ingredients": [
-                    "spaghetti",
-                    "bacon",
-                    "eggs",
+                    "Romaine lettuce",
+                    "croutons",
                     "parmesan cheese",
-                    "black pepper"
+                    "Caesar dressing",
+                    "lemon juice"
                 ],
-                "cookingMethod": "Boil spaghetti until al dente. Cook bacon until crispy. Beat eggs and parmesan cheese together. Toss spaghetti with bacon and egg mixture. Season with black pepper.",
+                "cookingMethod": "Toss romaine lettuce, croutons, and parmesan cheese with Caesar dressing and lemon juice. Serve chilled.",
                 "rating": 4.5
             },
             {
-                "recipeName": "Beef Stroganoff",
+                "recipeName": "Clam chowder",
                 "ingredients": [
-                    "beef sirloin",
+                    "Clams",
+                    "potatoes",
                     "onion",
-                    "mushrooms",
-                    "sour cream",
-                    "beef broth"
+                    "celery",
+                    "cream"
                 ],
-                "cookingMethod": "Season beef with salt and pepper. Brown beef in a pan. Add onion and mushrooms. Cook until tender. Add sour cream and beef broth. Simmer until sauce thickens.",
+                "cookingMethod": "Cook clams in water until they open. Remove the meat from the shells and set aside. In a separate pan, cook diced potatoes, onion, and celery in water until tender. Add the cooked clams and cream to the pan and heat until hot.",
                 "rating": 4.2
             },
             {
@@ -145,7 +145,7 @@
         "chefDescription": "I am a professional chef with over 8 years of experience in the culinary arts.",
         "recipes": [
             {
-                "recipeName": "Beef Wellington",
+                "recipeName": "Chili",
                 "ingredients": [
                     "beef tenderloin",
                     "puff pastry",

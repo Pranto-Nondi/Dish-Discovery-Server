@@ -16,7 +16,7 @@
                     "lettuce",
                     "tomato"
                 ],
-                "cookingMethod": " Form ground beef into patties and grill or fry until cooked. Toast the burger buns and assemble the burger with cheese, lettuce, and tomato.",
+                "cookingMethod": " Form ground mutton into patties and grill or fry until cooked. Toast the burger buns and assemble the burger with cheese, lettuce, and tomato.",
                 "rating": 4.5
             },
             {
@@ -78,7 +78,7 @@
                     "ketchup",
                     "egg"
                 ],
-                "cookingMethod": "Combine ground beef, breadcrumbs, chopped onion, ketchup, and beaten egg. Mix well and shape into a loaf. Bake in the oven until cooked through.",
+                "cookingMethod": "Combine ground mutton, breadcrumbs, chopped onion, ketchup, and beaten egg. Mix well and shape into a loaf. Bake in the oven until cooked through.",
                 "rating": 4.6
             },
             {
@@ -157,17 +157,17 @@
                 "recipeImg": "https://i.ibb.co/QchwcqH/10.jpg",
                 "recipeName": "Chili",
                 "ingredients": [
-                    "beef tenderloin",
+                    "Mutton tenderloin",
                     "puff pastry",
                     "mushrooms",
                     "prosciutto",
                     "egg wash"
                 ],
-                "cookingMethod": "Season beef tenderloin with salt and pepper. Sear beef on all sides. Wrap beef in puff pastry with mushrooms and prosciutto. Brush with egg wash. Bake until golden brown.",
+                "cookingMethod": "Season mutton tenderloin with salt and pepper. Sear mutton on all sides. Wrap mutton in puff pastry with mushrooms and prosciutto. Brush with egg wash. Bake until golden brown.",
                 "rating": 4.9
             },
             {
-                "recipeImg": "https://i.ibb.co/GJ6d1Ss/18.jpg",
+                "recipeImg": "https://i.ibb.co/94T1gcj/c.webp",
                 "recipeName": "Lobster Bisque",
                 "ingredients": [
                     "lobster meat",
@@ -222,9 +222,9 @@
                     "sour cream",
                     "onion",
                     "mushrooms",
-                    "beef broth"
+                    "mutton broth"
                 ],
-                "cookingMethod": "Brown Mutton in a pan. Add onions and mushrooms and cook until soft. Add beef broth and simmer for 30 minutes. Stir in sour cream and serve over noodles.",
+                "cookingMethod": "Brown Mutton in a pan. Add onions and mushrooms and cook until soft. Add mutton broth and simmer for 30 minutes. Stir in sour cream and serve over noodles.",
                 "rating": 4.2
             },
             {
@@ -260,7 +260,7 @@
                     "lettuce",
                     "tomatoes"
                 ],
-                "cookingMethod": " Chicken in a pan. Add taco seasoning and cook for another minute. Heat tortillas in the microwave or on the stove. Assemble tacos with beef, lettuce, and tomatoes.",
+                "cookingMethod": " Chicken in a pan. Add taco seasoning and cook for another minute. Heat tortillas in the microwave or on the stove. Assemble tacos with mutton, lettuce, and tomatoes.",
                 "rating": 4
             },
             {

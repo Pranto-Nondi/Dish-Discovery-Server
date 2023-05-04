@@ -7,6 +7,7 @@
         "chefDescription": "John is a professional chef with best serve of food .",
         "recipes": [
             {
+                "recipeImg": "https://i.ibb.co/bWyCwG1/1.jpg",
                 "recipeName": "Cheeseburger",
                 "ingredients": [
                     "Ground Mutton",
@@ -19,6 +20,7 @@
                 "rating": 4.5
             },
             {
+                "recipeImg": "https://i.ibb.co/JFcZjJY/2.jpg",
                 "recipeName": "Hotdog",
                 "ingredients": [
                     "Hotdog buns",
@@ -31,6 +33,7 @@
                 "rating": 4.2
             },
             {
+                "recipeImg": "https://i.ibb.co/vDgPxN4/3.jpg",
                 "recipeName": "Fried chicken",
                 "ingredients": [
                     "Chicken pieces",
@@ -53,6 +56,7 @@
         "chefDescription": "Jane is a pastry chef with over 5 years of experience.",
         "recipes": [
             {
+                "recipeImg": "https://i.ibb.co/Z1NWf7R/4.jpg",
                 "recipeName": "Macaroni and cheese",
                 "ingredients": [
                     "Macaroni pasta",
@@ -65,6 +69,7 @@
                 "rating": 4.8
             },
             {
+                "recipeImg": "https://i.ibb.co/bmfyLft/5.jpg",
                 "recipeName": "Meatloaf",
                 "ingredients": [
                     "Ground Mutton",
@@ -77,6 +82,7 @@
                 "rating": 4.6
             },
             {
+                "recipeImg": "https://i.ibb.co/ZL0bhh5/6.jpg",
                 "recipeName": " BBQ ribs ",
                 "ingredients": [
                     "Pork ribs",
@@ -99,6 +105,7 @@
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
         "recipes": [
             {
+                "recipeImg": "https://i.ibb.co/THS7kSF/7.jpg",
                 "recipeName": "Caesar salad",
                 "ingredients": [
                     "Romaine lettuce",
@@ -111,6 +118,7 @@
                 "rating": 4.5
             },
             {
+                "recipeImg": "https://i.ibb.co/kmtkWSR/8.webp",
                 "recipeName": "Clam chowder",
                 "ingredients": [
                     "Clams",
@@ -123,6 +131,7 @@
                 "rating": 4.2
             },
             {
+                "recipeImg": "https://i.ibb.co/dLbdCjV/9.jpg",
                 "recipeName": "Chicken Alfredo",
                 "ingredients": [
                     "chicken breast",
@@ -145,6 +154,7 @@
         "chefDescription": "I am a professional chef with over 8 years of experience in the culinary arts.",
         "recipes": [
             {
+                "recipeImg": "https://i.ibb.co/QchwcqH/10.jpg",
                 "recipeName": "Chili",
                 "ingredients": [
                     "beef tenderloin",
@@ -157,6 +167,7 @@
                 "rating": 4.9
             },
             {
+                "recipeImg": "https://i.ibb.co/GJ6d1Ss/18.jpg",
                 "recipeName": "Lobster Bisque",
                 "ingredients": [
                     "lobster meat",
@@ -169,6 +180,7 @@
                 "rating": 4.6
             },
             {
+                "recipeImg": "https://i.ibb.co/kMPvrDL/11.jpg",
                 "recipeName": "Crème Brûlée",
                 "ingredients": [
                     "heavy cream",
@@ -190,6 +202,7 @@
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
         "recipes": [
             {
+                "recipeImg": "https://i.ibb.co/fFbyw8g/12.jpg",
                 "recipeName": "Spaghetti Carbonara",
                 "ingredients": [
                     "spaghetti",
@@ -202,18 +215,20 @@
                 "rating": 4.5
             },
             {
-                "recipeName": "Beef Stroganoff",
+                "recipeImg": "https://i.ibb.co/yBK6Bx7/13.webp",
+                "recipeName": "Mutton Stroganoff",
                 "ingredients": [
-                    "beef",
+                    "Mutton",
                     "sour cream",
                     "onion",
                     "mushrooms",
                     "beef broth"
                 ],
-                "cookingMethod": "Brown beef in a pan. Add onions and mushrooms and cook until soft. Add beef broth and simmer for 30 minutes. Stir in sour cream and serve over noodles.",
+                "cookingMethod": "Brown Mutton in a pan. Add onions and mushrooms and cook until soft. Add beef broth and simmer for 30 minutes. Stir in sour cream and serve over noodles.",
                 "rating": 4.2
             },
             {
+                "recipeImg": "https://i.ibb.co/QY2kndy/14.jpg",
                 "recipeName": "Chicken Alfredo",
                 "ingredients": [
                     "chicken",
@@ -236,18 +251,20 @@
         "chefDescription": "I am a passionate home cook who loves to experiment with new flavors and techniques.",
         "recipes": [
             {
-                "recipeName": "Beef Tacos",
+                "recipeImg": "https://i.ibb.co/wCDKw0T/15.webp",
+                "recipeName": "Chicken Tacos",
                 "ingredients": [
-                    "ground beef",
+                    "Chicken",
                     "taco seasoning",
                     "tortillas",
                     "lettuce",
                     "tomatoes"
                 ],
-                "cookingMethod": "Brown ground beef in a pan. Add taco seasoning and cook for another minute. Heat tortillas in the microwave or on the stove. Assemble tacos with beef, lettuce, and tomatoes.",
+                "cookingMethod": " Chicken in a pan. Add taco seasoning and cook for another minute. Heat tortillas in the microwave or on the stove. Assemble tacos with beef, lettuce, and tomatoes.",
                 "rating": 4
             },
             {
+                "recipeImg": "https://i.ibb.co/dB2kxY8/16.jpg",
                 "recipeName": "Pesto Pasta",
                 "ingredients": [
                     "pasta",
@@ -260,7 +277,8 @@
                 "rating": 4.3
             },
             {
-                "recipeName": "Jane's Famous Chocolate Chip Cookies",
+                "recipeImg": "https://i.ibb.co/2WRZr53/17.webp",
+                "recipeName": "Chocolate Chip Cookies",
                 "ingredients": [
                     "flour",
                     "butter",

@@ -13,7 +13,7 @@ app.get('/chefs', (req, res) => {
 app.get('/chefs/:id', (req, res) => {
     const id = req.params.id
     const selectedChef = chefs.find(e => e.id == id)
-    res.send(selectedChef)
+    res.send(selectedChef);
 })
 
 app.listen(port, () => {
